@@ -80,7 +80,7 @@ export default function Home() {
             </div>
             <div className="relative h-96 lg:h-[500px] rounded-lg overflow-hidden shadow-2xl">
               <Image
-                src="/sitee/images/logo.jpg"
+                src="/sitee/public/logo.png"
                 alt="ARYUS - Yaşam ve Çalışma Alanları Çözümleri"
                 fill
                 className="object-cover"
@@ -177,6 +177,7 @@ export default function Home() {
     </div>
   )
 }
+
 
 
 

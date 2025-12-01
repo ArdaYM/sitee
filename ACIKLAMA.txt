@@ -1,0 +1,54 @@
+═══════════════════════════════════════════════════════════════
+  ONUR HAVALANDIRMA WEB SITESI - NASIL ACILIR?
+═══════════════════════════════════════════════════════════════
+
+SİTEYİ AÇMAK İÇİN 2 YOL VAR:
+
+┌─────────────────────────────────────────────────────────────┐
+│ YOL 1: İLK DEFA (KURULUM + BAŞLATMA)                        │
+└─────────────────────────────────────────────────────────────┘
+
+1. "KURULUM-VE-BASLAT.bat" dosyasını çift tıklayın
+   - Bu dosya paketleri yükleyecek ve siteyi başlatacak
+   - İlk seferinde 2-3 dakika sürebilir
+
+┌─────────────────────────────────────────────────────────────┐
+│ YOL 2: DAHA ÖNCE KURULDUYSA (SADECE BAŞLATMA)               │
+└─────────────────────────────────────────────────────────────┘
+
+1. "SADECE-BASLAT.bat" dosyasını çift tıklayın
+   - Bu dosya sadece siteyi başlatır
+
+═══════════════════════════════════════════════════════════════
+
+SİTE AÇILDIKTAN SONRA:
+
+1. Tarayıcınızı açın (Chrome, Edge, Firefox, vb.)
+2. Adres çubuğuna şunu yazın: http://localhost:3000
+3. Enter'a basın
+
+═══════════════════════════════════════════════════════════════
+
+SORUN MU YAŞIYORSUNUZ?
+
+1. Node.js kurulu mu kontrol edin:
+   - https://nodejs.org/ adresinden Node.js LTS versiyonunu indirin
+   - Kurulum yapın ve bilgisayarı yeniden başlatın
+
+2. Hata mesajı alıyorsanız:
+   - Hata mesajını not edin
+   - "KURULUM-VE-BASLAT.bat" dosyasını tekrar çalıştırın
+
+3. Port 3000 kullanımda hatası alıyorsanız:
+   - Başka bir program 3000 portunu kullanıyor
+   - O programı kapatın veya bilgisayarı yeniden başlatın
+
+═══════════════════════════════════════════════════════════════
+
+SİTEYİ KAPATMAK İÇİN:
+
+- Komut penceresinde Ctrl + C tuşlarına basın
+
+═══════════════════════════════════════════════════════════════
+
+

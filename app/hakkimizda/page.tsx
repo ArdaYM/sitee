@@ -43,7 +43,7 @@ export default function Hakkimizda() {
           </div>
           <div className="relative h-96 rounded-lg overflow-hidden shadow-xl">
             <Image
-              src="/images/fabrika-havalandirma.jpg"
+              src="/sitee/images/fabrika-havalandirma.jpg"
               alt="ARYUS Havalandırma ve Klima Sistemleri"
               fill
               className="object-cover"
@@ -118,7 +118,7 @@ export default function Hakkimizda() {
               <div key={item} className="bg-white p-6 rounded-lg shadow-md text-center">
                 <div className="relative h-48 mb-4">
                   <Image
-                    src={`/images/sertifika-${item}.jpg`}
+                    src={`/sitee/images/sertifika-${item}.jpg`}
                     alt={`Sertifika ${item}`}
                     fill
                     className="object-contain"
@@ -133,4 +133,5 @@ export default function Hakkimizda() {
     </div>
   )
 }
+
 

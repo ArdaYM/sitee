@@ -37,7 +37,7 @@ export default function Header() {
           <Link href="/" className="flex items-center space-x-3">
             <div className="relative w-16 h-16 md:w-20 md:h-20">
               <Image
-                src="/logo.png"
+                src="/site/logo.png"
                 alt="ARYUS Logo"
                 fill
                 className="object-contain"
@@ -97,5 +97,6 @@ export default function Header() {
     </header>
   )
 }
+
 
 

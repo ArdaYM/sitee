@@ -24,6 +24,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="tr">
+      <head>
+        {/* Manifest ve favicon ekliyoruz */}
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <link rel="icon" href="/logo.png" />
+        <meta name="theme-color" content="#0079e6" />
+      </head>
       <body>
         <Header />
         <main>{children}</main>
@@ -32,5 +38,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-

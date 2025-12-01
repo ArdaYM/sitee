@@ -22,7 +22,7 @@ const services = [
       'Gaz kaçağı ve performans kontrolü',
       'Periyodik bakım sözleşmeleri',
     ],
-    image: '/images/klima-temizlik.jpg',
+    image: '/sitee/images/klima-temizlik.jpg',
   },
   {
     id: 'havalandirma-kanal',
@@ -36,7 +36,7 @@ const services = [
       'Video ile öncesi/sonrası raporlama',
       'Filtre yenileme ve iyileştirme önerileri',
     ],
-    image: '/images/havalandirma-sistemleri.jpg',
+    image: '/sitee/images/havalandirma-sistemleri.jpg',
   },
   {
     id: 'teknik-servis',
@@ -50,7 +50,7 @@ const services = [
       'Sistem performans ölçümü',
       '7/24 acil servis imkanı (anlaşmaya bağlı)',
     ],
-    image: '/images/klima-servis.jpg',
+    image: '/sitee/images/klima-servis.jpg',
   },
   {
     id: 'ofis-temizlik',
@@ -64,7 +64,7 @@ const services = [
       'Temizlik sonrası iklimlendirme sistem kontrolü',
       'Esnek çalışma saatleri ile hizmet',
     ],
-    image: '/images/ofis-temizlik.jpg',
+    image: '/sitee/images/ofis-temizlik.jpg',
   },
 ]
 
@@ -149,5 +149,6 @@ export default function Hizmetlerimiz() {
     </div>
   )
 }
+
 
 

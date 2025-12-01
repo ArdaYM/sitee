@@ -15,7 +15,7 @@ const blogPosts = [
     title: 'Klima Temizliği Neden Bu Kadar Önemli?',
     excerpt:
       'Düzenli yapılmayan klima temizliğinin sağlık, enerji tüketimi ve cihaz ömrü üzerindeki etkilerini keşfedin.',
-    image: '/images/blog-klima-temizlik.jpg',
+    image: '/sitee/images/blog-klima-temizlik.jpg',
     date: '15 Ocak 2025',
     category: 'Klima Bakımı',
   },
@@ -24,7 +24,7 @@ const blogPosts = [
     title: 'Havalandırma Kanal Temizliği ile Toz ve Koku Kontrolü',
     excerpt:
       'Ofis ve ticari binalarda havalandırma kanalı temizliğinin iç hava kalitesine etkisi ve nelere dikkat edilmesi gerektiği.',
-    image: '/images/blog-havalandirma.jpg',
+    image: '/sitee/images/blog-havalandirma.jpg',
     date: '10 Ocak 2025',
     category: 'Havalandırma',
   },
@@ -33,7 +33,7 @@ const blogPosts = [
     title: 'Ofis Hijyeni: Temizlik ve İklimlendirme Birlikte Düşünülmeli',
     excerpt:
       'Ofis temizliği ile klima ve havalandırma bakımlarının birlikte planlanmasının çalışan sağlığına katkıları.',
-    image: '/images/blog-ofis-temizlik.jpg',
+    image: '/sitee/images/blog-ofis-temizlik.jpg',
     date: '5 Ocak 2025',
     category: 'Ofis Hijyeni',
   },
@@ -42,7 +42,7 @@ const blogPosts = [
     title: 'Periyodik Klima Bakımı ile Enerji Tasarrufu',
     excerpt:
       'Periyodik klima bakımı ile enerji faturalarınızı nasıl düşürebileceğinizi ve cihaz verimini nasıl artırabileceğinizi öğrenin.',
-    image: '/images/blog-enerji.jpg',
+    image: '/sitee/images/blog-enerji.jpg',
     date: '28 Aralık 2024',
     category: 'Enerji Verimliliği',
   },
@@ -51,7 +51,7 @@ const blogPosts = [
     title: 'Restoran ve Kafelerde Mutfak Havalandırma Temizliği',
     excerpt:
       'Mutfak davlumbazı ve yağlı kanal temizliğinin yangın güvenliği ve koku kontrolü açısından kritik önemi.',
-    image: '/images/blog-davlumbaz.jpg',
+    image: '/sitee/images/blog-davlumbaz.jpg',
     date: '20 Aralık 2024',
     category: 'Mutfak Havalandırma',
   },
@@ -60,7 +60,7 @@ const blogPosts = [
     title: 'İşyeri İçin Doğru Klima Seçimi ve Sonrası',
     excerpt:
       'Ofisiniz için doğru klima kapasitesini belirlerken dikkat etmeniz gerekenler ve kurulum sonrası bakım ipuçları.',
-    image: '/images/blog-klima-secim.jpg',
+    image: '/sitee/images/blog-klima-secim.jpg',
     date: '15 Aralık 2024',
     category: 'Klima Seçimi',
   },
@@ -121,5 +121,6 @@ export default function Blog() {
     </div>
   )
 }
+
 
 

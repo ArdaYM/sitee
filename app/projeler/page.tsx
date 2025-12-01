@@ -16,7 +16,7 @@ const projects = [
     description:
       'Kurumsal bir ofis binasında tüm split ve VRF klima sistemlerinin sezonluk bakım, filtre değişimi ve performans kontrolleri.',
     services: ['Klima Bakımı', 'Filtre Değişimi', 'Performans Testleri'],
-    image: '/images/proje-1.jpg',
+    image: '/sitee/images/proje-1.jpg',
     year: '2024',
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     description:
       'Alışveriş merkezinde taze hava ve egzoz hatları dahil tüm havalandırma kanallarının robotik sistemlerle detaylı temizliği.',
     services: ['Kanal Temizliği', 'Menfez Temizliği', 'Raporlama'],
-    image: '/images/proje-2.jpg',
+    image: '/sitee/images/proje-2.jpg',
     year: '2023',
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     description:
       'Yoğun kullanılan bir restoran mutfağında davlumbaz, yağlı kanal ve fan temizliği ile yangın riski azaltıldı.',
     services: ['Davlumbaz Temizliği', 'Yağlı Kanal Temizliği', 'Fan Bakımı'],
-    image: '/images/proje-3.jpg',
+    image: '/sitee/images/proje-3.jpg',
     year: '2023',
   },
   {
@@ -43,7 +43,7 @@ const projects = [
     description:
       'Poliklinik katlarında bulunan klima sistemlerinin hijyen odaklı temizliği ve bakım uygulamaları.',
     services: ['Hijyenik Temizlik', 'Kimyasal Uygulama', 'Detaylı Raporlama'],
-    image: '/images/proje-4.jpg',
+    image: '/sitee/images/proje-4.jpg',
     year: '2022',
   },
   {
@@ -52,7 +52,7 @@ const projects = [
     description:
       'Plaza ortak alanlarındaki fan-coil ve klima cihazlarının periyodik bakım ve temizlik çalışmaları.',
     services: ['Fan-Coil Bakımı', 'Filtre Temizliği', 'Dengeleme Çalışmaları'],
-    image: '/images/proje-5.jpg',
+    image: '/sitee/images/proje-5.jpg',
     year: '2022',
   },
   {
@@ -61,7 +61,7 @@ const projects = [
     description:
       'Üretim tesisinde proses havalandırma sistemlerinin bakım, fan değişimi ve kanal temizlikleri.',
     services: ['Havalandırma Bakımı', 'Fan Değişimi', 'Kanal Temizliği'],
-    image: '/images/proje-6.jpg',
+    image: '/sitee/images/proje-6.jpg',
     year: '2021',
   },
 ]
@@ -159,5 +159,6 @@ export default function Projeler() {
     </div>
   )
 }
+
 
 
